@@ -1,6 +1,10 @@
 # somethingthatimadeforpathfinderfromhackclub
 
-## pathfinder session 1 [16 mins] (yes im that fast)
+## pathfinder session 1 - [16 mins] (yes im that fast)
+What I did:
+I finished the entire pcb.
+
+
 Screenshot
 
 
