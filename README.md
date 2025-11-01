@@ -1,5 +1,5 @@
 # somethingthatimadeforpathfinderfromhackclub
 
-##pathfinder session 1 [16 mins] (yes im that fast)
+## pathfinder session 1 [16 mins] (yes im that fast)
 Screenshot
 <img width="667" height="476" alt="image" src="https://github.com/user-attachments/assets/b417f7ae-68ea-4171-9e87-9ea217e74f61" />
