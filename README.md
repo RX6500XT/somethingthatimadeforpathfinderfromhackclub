@@ -10,3 +10,8 @@ Screenshot
 
 
 <img width="667" height="476" alt="image" src="https://github.com/user-attachments/assets/b417f7ae-68ea-4171-9e87-9ea217e74f61" />
+
+
+## session 2 - [2m]
+what i did
+added the key3d models
